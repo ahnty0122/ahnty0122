@@ -1,7 +1,7 @@
 ### Hi there, I'm TY 👋
 :mortar_board: EWHA WOMANS UNIVERSITY
-- Major in Division of Mechanical and Biomedical Engineering(MBE)
-- Minor in Computer Science Engineering(CSE)
+- Major in Division of __Mechanical and Biomedical Engineering(MBE)__
+- Minor in __Computer Science Engineering(CSE)__
 
 ### Tech Stack :books:🔨
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
