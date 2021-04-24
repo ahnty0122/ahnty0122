@@ -31,7 +31,7 @@
 
 [<img src="https://user-images.githubusercontent.com/61795757/114225432-43c04c80-99ad-11eb-8bde-96785dc42f38.png" width="200px">](https://ahnty0122.tistory.com/)
 
-[![ahnty0122's github stats](https://github-readme-stats.vercel.app/api?username=ahnty0122&count_private=true&hide=stars,contribs&show_icons=true&theme=flag-india)](https://github.com/ahnty0122)
+[![ahnty0122's github stats](https://github-readme-stats.vercel.app/api?username=ahnty0122&count_private=true&hide=prs,contribs&show_icons=true&theme=flag-india)](https://github.com/ahnty0122)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahnty0122&layout=compact&langs_count=7&hide=kotlin&theme=flag-india)](https://github.com/ahnty0122)
 
 <!--
