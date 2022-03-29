@@ -3,8 +3,6 @@
 - Major in Division of __Mechanical and Biomedical Engineering(MBE)__
 - Minor in __Computer Science Engineering(CSE)__
 
-[<img src="https://user-images.githubusercontent.com/61795757/114225432-43c04c80-99ad-11eb-8bde-96785dc42f38.png" width="120px">](https://ahnty0122.tistory.com/)
-
 [![ahnty0122's github stats](https://github-readme-stats.vercel.app/api?username=ahnty0122&count_private=true&hide=issues,contribs&show_icons=true&theme=flag-india)](https://github.com/ahnty0122)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahnty0122&layout=compact&langs_count=7&hide=kotlin&theme=flag-india)](https://github.com/ahnty0122)
 
@@ -53,6 +51,8 @@ contribs
 
 ### Contacts 💌
 &nbsp;[![Instagram Badge](http://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white&link=https://instagram.com/_tae.0_/=https://instagram.com/_tae.0_/)](https://instagram.com/_tae.0_) [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ahnty0122@gmail.com)](mailto:ahnty0122@gmail.com)  
+[<img src="https://user-images.githubusercontent.com/61795757/114225432-43c04c80-99ad-11eb-8bde-96785dc42f38.png" width="120px">](https://ahnty0122.tistory.com/)
+
 ### Awards 🏆 
 - 2020 __2nd prize__, 2020 ICT CoC AI contest, Ministry of Science and ICT & National IT Industry Promotion Agency
 - 2020 __2nd prize__, 2020 Research Data & AI Competition, KISTI
